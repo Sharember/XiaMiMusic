@@ -16,5 +16,5 @@
 
 预览：
 
-(https://github.com/CleverFan/XiaMiMusic/blob/master/show.png)
+![image](https://github.com/CleverFan/XiaMiMusic/blob/master/show.png)
 
