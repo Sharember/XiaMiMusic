@@ -1,0 +1,28 @@
+{
+  "name": "XiaMiMusic",
+  "version": "1.0.0",
+  "description": "a musicplayer",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CleverFan/XiaMiMusic"
+  },
+  "keywords": [
+    "musicplayer",
+    "xiami",
+    "electron",
+    "nodejs"
+  ],
+  "author": "cf",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/CleverFan/XiaMiMusic/issues"
+  },
+  "homepage": "https://github.com/CleverFan/XiaMiMusic#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
