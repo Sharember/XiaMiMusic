@@ -13,3 +13,8 @@
 3.```cd XiaMiMusic```
 
 4.```npm install & npm start```
+
+预览：
+
+(https://github.com/CleverFan/XiaMiMusic/blob/master/show.png)
+
