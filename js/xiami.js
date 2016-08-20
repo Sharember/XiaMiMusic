@@ -1,6 +1,6 @@
 $(window).load(function(){
-	//loadBG();
-	fPlay();
+	loadBG();
+	//fPlay();
 });
 $(function(){
 	//setTimeout("fPlay()",500);
