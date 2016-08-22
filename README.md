@@ -7,7 +7,7 @@
 
 ----------
 
-打开方式：
+打开方式（先安装nodejs和npm）：
 
 1.```npm install electron -g //全局安装electron```
     
